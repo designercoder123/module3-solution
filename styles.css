@@ -1,0 +1,55 @@
+#header-nav{
+	background-color: #2ecc71;
+	border-radius: 0;
+	border:0;
+}
+.navbar-brand{
+	padding-top: 25px;
+}
+.navbar-brand h1{
+	font-family: 'Dosis' , sans-serif;
+	color: white;
+	font-size:1.5em;
+	margin-bottom: 0;
+	margin-top: 0;
+	font-weight: 700;
+	line-height: .25;
+}
+.jumbotron{
+	margin-top: 5%;
+}
+.menu{
+	font-family: 'Dosis', sans-serif;
+	font-size: 2em;
+	font-weight: 700;
+	color: #2c3e50;
+}
+.chicken{
+	font-family: 'Dosis', sans-serif;
+	font-size: 1.5em;
+	font-weight: 700;
+	color: #2980b9;
+}
+.para1{
+	font-family: 'Dosis', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	color: #2980b9;	
+}
+#nav-list{
+	margin-top: 10px;
+}
+#nav-list a{
+	color: white;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	font-weight: 700;
+	font-size: 1em;
+}
+#nav-list a:hover{
+	background-color: #16a085;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	background-color: none;
+	border:0;
+}
